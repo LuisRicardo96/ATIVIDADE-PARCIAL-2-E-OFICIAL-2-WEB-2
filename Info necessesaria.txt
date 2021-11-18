@@ -1,0 +1,14 @@
+Banco: loja
+tabela: carros
+
+necessario o comando no terminal: php artisan migrate
+necessario o comando no terminal: php artisan serve
+
+
+Modelo da API:
+
+Marca: Inserir a marca
+Modelo: Inserir o modelo
+Ano: Inserir o ano
+Situação: Inserir a situação como exemplo "Novo ou Semi-Novo "
+Patio: Inserir o nome do patio como exemplo " Pavilhão 6 "
